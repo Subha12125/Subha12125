@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-subhabratapaul.me-7C83FD?style=for-the-badge&logoColor=white)](https://www.subhabratapaul.me/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-subhabratapaul277-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subhabratapaul277/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-subhaop-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subhaop/)
 [![GitHub](https://img.shields.io/badge/GitHub-Subha12125-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subha12125)
 
 </div>
