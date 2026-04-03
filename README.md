@@ -21,27 +21,26 @@
 ## 🧑‍💻 About Me
 
 ```python
-class SubhabrataPaul:
-    def __init__(self):
-        self.name       = "Subhabrata Paul"
-        self.alias      = "Subha"
-        self.location   = "Habra, West Bengal, India 🇮🇳"
-        self.role       = "Engineering Student & Developer"
-        self.portfolio  = "https://www.subhabratapaul.me/"
-
-    @property
-    def currently(self):
+class SubhabrataPaul {
+public:
+    SubhabrataPaul() {
+        name = "Subhabrata Paul";
+        alias = "Subha";
+        location = "Habra, West Bengal, India 🇮🇳";
+        role = "Engineering Student & Developer";
+        portfolio = "https://www.subhabratapaul.me/";
+    }
+    map<string, vector<string>> currently() {
         return {
-            "learning"  : ["DSA in C++", "System Design", "Generative AI"],
-            "building"  : ["SmartResume Analyzer", "Backend APIs", "AI-powered tools"],
-            "exploring" : ["Web Dev", "AI & Automation", "Open Source"],
-        }
-
-    def say_hi(self):
-        return "Thanks for visiting! Let's build something awesome together 🚀"
-
-me = SubhabrataPaul()
-print(me.say_hi())
+            {"learning", {"DSA in C++", "System Design", "Generative AI"}},
+            {"building", {"SmartResume Analyzer", "Backend APIs", "AI-powered tools"}},
+            {"exploring", {"Web Dev", "AI & Automation", "Open Source"}}
+        };
+    }
+    string say_hi() {
+        return "Thanks for visiting! Let's build something awesome together 🚀";
+    }
+};
 ```
 
 ---
