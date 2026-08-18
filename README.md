@@ -164,7 +164,7 @@ End-to-end **encrypted chat** using RSA — secure, private, real-time messaging
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Subha12125&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=555555" alt="GitHub Streak" />
+
 
 </div>
 
